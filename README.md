@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Analysis and Predction Model Building
+# Credit Card Fraud Detection Analysis and Predction Model
 ## Dataset
 This  dataset is taken from Kaggle:  
 https://www.kaggle.com/mlg-ulb/creditcardfraud/data
