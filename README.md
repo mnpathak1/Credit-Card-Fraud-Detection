@@ -6,6 +6,8 @@ https://www.kaggle.com/mlg-ulb/creditcardfraud/data
 We have time of transaction, 28 anonimyzed features, amount of transaction and the class of transaction in the dataset.
 This datset is highly skewed with Fraud transactions being only 0.17% of total transactions.  
 
+This dataset is particularly interesting since we encounter highly skewed data in mny practical scenarios such as click conversion in advertizing, defect analysis in manufacturing and so on.
+
 ## Conclusion
 * EDA did not show clear separation of fraud and normal transaction captured by any single parameter
 * Fraud transactions are typically small. On a crude term, transaction with values more than maximum of fraud transaction can safely be assumed as normal
